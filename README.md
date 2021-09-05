@@ -1,2 +1,2 @@
-# d-portfolio
+# portfolio
 Data Science Portfolio
