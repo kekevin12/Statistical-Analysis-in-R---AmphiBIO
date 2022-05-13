@@ -13,3 +13,6 @@ As a final project, I utilized a global amphibian data base and selected certain
 . Familiarity with R - the language and markdowns 
 
 . Exploratory data analysis
+
+### Notes
+Original .RMD file was lost due to hard drive failure, and was recreated for viewing
